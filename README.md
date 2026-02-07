@@ -1,16 +1,16 @@
 # CIFAR-10
 
-Basit bir CIFAR-10 calismasi. Notebook: main.ipynb
+Basit bir CIFAR-10 çalışması. Notebook: main.ipynb
 
-## Icerik
-- PyTorch ile CIFAR-10 yukleme ve onisleme
-- 3 farkli FFNN model denemesi
-- Egitim / dogrulama / test
-- Fuzzing tabanli dayaniksizlik denemeleri
+## İçerik
+- PyTorch ile CIFAR-10 yükleme ve ön işleme
+- 3 farklı FFNN model denemesi
+- Eğitim / doğrulama / test
+- Fuzzing tabanlı dayanıklılık denemeleri
 
-## Calistirma
+## Çalıştırma
 1) Ortam kur (PyTorch, torchvision, matplotlib)
-2) main.ipynb notebook'u ac ve hucreleri calistir
+2) main.ipynb notebook'unu aç ve hücreleri çalıştır
 
 ## Veri
-`data/` klasoru git'e dahil degil. CIFAR-10 dataset'i notebook calisirken indiriliyor.
+`data/` klasörü git'e dahil değil. CIFAR-10 veri seti notebook çalışırken indiriliyor.
